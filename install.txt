@@ -1,0 +1,2 @@
+python -m pip install notebook
+python -m pip install selenium
